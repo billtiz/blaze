@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BlaZe — All-in-One Discord Bot
 
 <p align="center">
@@ -71,3 +72,6 @@ See `.env.example` for the environment variable names. Configure your Discord ap
 ## License
 
 This project is distributed under the MIT License. See [LICENSE](LICENSE) for the full license text.
+=======
+# blaze
+>>>>>>> d198c55235b650ec69b6e13624142f71ef05445d
