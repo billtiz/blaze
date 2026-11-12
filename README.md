@@ -1150,13 +1150,3 @@ Special thanks to the developers and contributors who maintain the open-source e
 ---
 
 <div align="center">
-
-# BlaZe™
-
-### Advanced Discord Music Bot
-
-**Built for communities. Designed for performance.**
-
-Made with dedication.
-
-</div>
