@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # BlaZe — All-in-One Discord Bot
 
 <p align="center">
